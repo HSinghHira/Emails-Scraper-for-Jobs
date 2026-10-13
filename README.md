@@ -23,7 +23,7 @@ A small command-line tool that finds contact emails for a company domain, so you
 ## Usage
 
 ```
-py m.py
+py main.py
 ```
 
 Type a domain at the prompt (for example `company.com`) and press Enter. Type `q` to quit.
